@@ -1,0 +1,1 @@
+La siguiente aplicación de escritorio esta desarrollada en Java  y esta pensada para construcción de techumbres construidas con estructuras metálicas; funciona para calcular el número de tubos necesarios para la construcción de una estructura en un terreno cuadrado, así mismo calcular el costo por mano de obra por metro lineal.
